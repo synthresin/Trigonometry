@@ -1,0 +1,197 @@
+TTrigonometry
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/./build/Debug/Trigonometry.app/Contents/Info.plist Info.plist
+cCpResource CinderApp.icns ./build/Debug/Trigonometry.app/Contents/Resources/CinderApp.icns
+cProcessPCH++ /var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Trigonometry_Prefix-entpxkwcrgaxpxfzvslnjztuulxh/Trigonometry_Prefix.pch.pth Trigonometry_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ./build/Trigonometry.build/Debug/Trigonometry.build/Objects-normal/i386/TrigonometryApp.o /Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/../src/TrigonometryApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/./build/Debug/Trigonometry.app/Contents/MacOS/Trigonometry normal i386
+cTouch /Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/./build/Debug/Trigonometry.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c0000000050945C7600000000000000AA
+t1351900278
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Accelerate.framework/Accelerate
+c00000000505A3E6E00000000000024F0
+t1348091502
+s9456
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c00000000505A3E6E0000000000024D90
+t1348091502
+s150928
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AudioUnit.framework/AudioUnit
+c00000000505A3E6E00000000000060B4
+t1348091502
+s24756
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c00000000505A3E6E00000000000001E5
+t1348091502
+s485
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+c00000000505A3E6E000000000000E920
+t1348091502
+s59680
+
+N/System/Library/Frameworks/Carbon.framework/Carbon
+c00000000501015C300000000000069F0
+t1343231427
+s27120
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c00000000501015C30000000000006730
+t1343231427
+s26416
+
+N/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c00000000505A399E0000000000081CB0
+t1348090270
+s531632
+
+N/System/Library/Frameworks/OpenGL.framework/OpenGL
+c00000000505A39A3000000000002DAF0
+t1348090275
+s187120
+
+N/System/Library/Frameworks/QTKit.framework/QTKit
+c0000000050592BA800000000004A2D90
+t1348021160
+s4861328
+
+N/System/Library/Frameworks/QuickTime.framework/QuickTime
+c00000000505A39A30000000000322E20
+t1348090275
+s3288608
+
+N/Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/../src/TrigonometryApp.cpp
+c0000000050977C850000000000000360
+t1352105093
+s864
+
+N/Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/./build/Debug/Trigonometry.app
+t2
+s0
+
+N/Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/./build/Debug/Trigonometry.app/Contents/Info.plist
+t2
+s0
+
+N/Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/./build/Debug/Trigonometry.app/Contents/MacOS/Trigonometry
+t2
+s0
+
+N/Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/./build/Debug/Trigonometry.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/./build/Debug/Trigonometry.app/Contents/Resources/CinderApp.icns
+t2
+s0
+
+N/Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/./build/Trigonometry.build/Debug/Trigonometry.build/Objects-normal/i386/Trigonometry.LinkFileList
+c0000000050977C860000000000000093
+t1352105094
+s147
+
+N/Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/./build/Trigonometry.build/Debug/Trigonometry.build/Objects-normal/i386/TrigonometryApp.o
+t2
+s0
+
+N/Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/CinderApp.icns
+c0000000050977778000000000001BEB5
+t1352103800
+s114357
+
+N/Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/Trigonometry_Prefix.pch
+c00000000509777780000000000000093
+t1352103800
+s147
+i<Cocoa/Cocoa.h>
+
+N/var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Trigonometry_Prefix-entpxkwcrgaxpxfzvslnjztuulxh/Trigonometry_Prefix.pch.pth
+t2
+s0
+
+NInfo.plist
+c00000000509777780000000000000352
+t1352103800
+s850
+
+CBuild AST from /Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/../src/TrigonometryApp.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies5c3d8706b447b641^5f799006b447b641^---0#1#0#--18"Check dependencies36"9072B89B-0EBC-4555-9804-A9B99A121924-
+
+CCompileC ./build/Trigonometry.build/Debug/Trigonometry.build/Objects-normal/i386/TrigonometryApp.o /Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/../src/TrigonometryApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s373797894.762026
+e373797896.729506
+r1
+xCompileC
+x./build/Trigonometry.build/Debug/Trigonometry.build/Objects-normal/i386/TrigonometryApp.o
+x/Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/../src/TrigonometryApp.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/../src/TrigonometryApp.cpp6b2ac306b447b641^f9c0ba08b447b641^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/../src/TrigonometryApp.cpp0000000000000000^2950"CompileC ./build/Trigonometry.build/Debug/Trigonometry.build/Objects-normal/i386/TrigonometryApp.o ../src/TrigonometryApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.5 -g -Wno-sign-conversion -iquote /Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/./build/Trigonometry.build/Debug/Trigonometry.build/Trigonometry-generated-files.hmap -I/Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/./build/Trigonometry.build/Debug/Trigonometry.build/Trigonometry-own-target-headers.hmap -I/Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/./build/Trigonometry.build/Debug/Trigonometry.build/Trigonometry-all-target-headers.hmap -iquote /Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/./build/Trigonometry.build/Debug/Trigonometry.build/Trigonometry-project-headers.hmap -iquote../../../include -iquote../include -I/Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/build/Debug/include -I../../../boost -I/Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/./build/Trigonometry.build/Debug/Trigonometry.build/DerivedSources/i386 -I/Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/./build/Trigonometry.build/Debug/Trigonometry.build/DerivedSources -F/Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/build/Debug -include /var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Trigonometry_Prefix-entpxkwcrgaxpxfzvslnjztuulxh/Trigonometry_Prefix.pch -MMD -MT dependencies -MF /Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/./build/Trigonometry.build/Debug/Trigonometry.build/Objects-normal/i386/TrigonometryApp.d --serialize-diagnostics /Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/./build/Trigonometry.build/Debug/Trigonometry.build/Objects-normal/i386/TrigonometryApp.dia -c /Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/../src/TrigonometryApp.cpp -o /Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/./build/Trigonometry.build/Debug/Trigonometry.build/Objects-normal/i386/TrigonometryApp.o36"3578A3BF-9CFF-4CDF-BBE4-EA4D2CA05978-
+
+CCpResource CinderApp.icns ./build/Debug/Trigonometry.app/Contents/Resources/CinderApp.icns
+s373797894.584333
+e373797894.589693
+r1
+xCpResource
+xCinderApp.icns
+x./build/Debug/Trigonometry.app/Contents/Resources/CinderApp.icns
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Copy ./build/Debug/Trigonometry.app/Contents/Resources/CinderApp.icnsadbf9506b447b641^a5f69606b447b641^---0#0#0#-19%DVTDocumentLocation2@137"file://localhost/Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/./build/Debug/Trigonometry.app/Contents/Resources/CinderApp.icns000000000080d041^446"CpResource CinderApp.icns ./build/Debug/Trigonometry.app/Contents/Resources/CinderApp.icns    cd /Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/CinderApp.icns /Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/./build/Debug/Trigonometry.app/Contents/Resources36"04E3D79D-1C3F-48C7-A970-BADB97B6DB84-
+
+CLd /Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/./build/Debug/Trigonometry.app/Contents/MacOS/Trigonometry normal i386
+s373797896.736361
+e373797897.487242
+r1
+xLd
+x/Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/./build/Debug/Trigonometry.app/Contents/MacOS/Trigonometry
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Link /Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/./build/Debug/Trigonometry.app/Contents/MacOS/Trigonometry789abc08b447b641^06bc7c09b447b641^---0#0#0#--1085"Ld ./build/Debug/Trigonometry.app/Contents/MacOS/Trigonometry normal i386    cd /Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/build/Debug -F/Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/build/Debug -filelist /Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/./build/Trigonometry.build/Debug/Trigonometry.build/Objects-normal/i386/Trigonometry.LinkFileList -mmacosx-version-min=10.5 ../../..//lib/libcinder_d.a -lcurl -framework Cocoa -framework OpenGL -framework Carbon -framework CoreVideo -framework QTKit -framework QuickTime -framework Accelerate -framework AudioToolbox -framework AudioUnit -framework CoreAudio -o /Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/./build/Debug/Trigonometry.app/Contents/MacOS/Trigonometry36"F87EF5CF-7E78-491B-820E-5F113A575E62-
+
+CProcessInfoPlistFile /Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/./build/Debug/Trigonometry.app/Contents/Info.plist Info.plist
+s373797894.568970
+e373797894.576397
+r1
+xProcessInfoPlistFile
+x/Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/./build/Debug/Trigonometry.app/Contents/Info.plist
+xInfo.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Process Info.plist567d9206b447b641^7e8e9306b447b641^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/Info.plist0000000000000000^453"ProcessInfoPlistFile ./build/Debug/Trigonometry.app/Contents/Info.plist Info.plist    cd /Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode    builtin-infoPlistUtility Info.plist -genpkginfo /Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/./build/Debug/Trigonometry.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/./build/Debug/Trigonometry.app/Contents/Info.plist36"74ADD160-204C-4D6D-AE7E-431F9A4DF9BD-
+
+CProcessPCH++ /Users/synthresin/Library/Developer/Xcode/DerivedData/Trigonometry-clwzjxfyqzbjqjcplzsffxsgubep/Index/PrecompiledHeaders/Trigonometry_Prefix-bujggarbkpshvtcngddwvkjjnfza_ast/Trigonometry_Prefix.pch.pth Trigonometry_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Trigonometry_Prefix-entpxkwcrgaxpxfzvslnjztuulxh/Trigonometry_Prefix.pch.pth Trigonometry_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s373797894.597819
+e373797894.755176
+r1
+xProcessPCH++
+x/var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Trigonometry_Prefix-entpxkwcrgaxpxfzvslnjztuulxh/Trigonometry_Prefix.pch.pth
+xTrigonometry_Prefix.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection34"Precompile Trigonometry_Prefix.pch2c659906b447b641^2254c106b447b641^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/Trigonometry_Prefix.pch0000000000000000^2928"ProcessPCH++ /var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Trigonometry_Prefix-entpxkwcrgaxpxfzvslnjztuulxh/Trigonometry_Prefix.pch.pth Trigonometry_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++-header -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.5 -g -Wno-sign-conversion -iquote /Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/./build/Trigonometry.build/Debug/Trigonometry.build/Trigonometry-generated-files.hmap -I/Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/./build/Trigonometry.build/Debug/Trigonometry.build/Trigonometry-own-target-headers.hmap -I/Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/./build/Trigonometry.build/Debug/Trigonometry.build/Trigonometry-all-target-headers.hmap -iquote /Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/./build/Trigonometry.build/Debug/Trigonometry.build/Trigonometry-project-headers.hmap -iquote../../../include -iquote../include -I/Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/build/Debug/include -I../../../boost -I/Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/./build/Trigonometry.build/Debug/Trigonometry.build/DerivedSources/i386 -I/Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/./build/Trigonometry.build/Debug/Trigonometry.build/DerivedSources -F/Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/build/Debug --serialize-diagnostics /var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Trigonometry_Prefix-entpxkwcrgaxpxfzvslnjztuulxh/Trigonometry_Prefix.pch.dia -c /Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/Trigonometry_Prefix.pch -o /var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Trigonometry_Prefix-entpxkwcrgaxpxfzvslnjztuulxh/Trigonometry_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Trigonometry_Prefix-entpxkwcrgaxpxfzvslnjztuulxh/Trigonometry_Prefix.pch.d36"367C0B68-7637-49AF-A13C-07D076B4B8E5-
+
+CTouch /Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/./build/Debug/Trigonometry.app
+s373797897.495208
+e373797897.503772
+r1
+xTouch
+x/Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/./build/Debug/Trigonometry.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Touch /Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/./build/Debug/Trigonometry.app31d37e09b447b641^ecf78009b447b641^---0#0#0#--211"Touch ./build/Debug/Trigonometry.app    cd /Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode    /usr/bin/touch -c /Users/synthresin/Desktop/cinder/apps/Trigonometry/xcode/./build/Debug/Trigonometry.app36"28EA8DE3-E25B-47BB-AA16-A3B936921865-
+
